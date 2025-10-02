@@ -1,6 +1,6 @@
 # Portfolio
 
-1. [ShirtPrint](https://shirtprint.co.uk) - [Private Repo](https://github.com/loukel/Shirtprint) - Next JS, Stripe, Shopify, Clerk, TailwindCSS
+1. [ShirtPrint](https://shirtprint.co.uk) - [Private Repo](https://github.com/loukel/Shirtprint) - Next JS, Stripe, Shopify, Clerk, TailwindCSS, Prisma
 2. [Clozio](https://clozio.store) - [Repo](https://github.com/loukel/Clozio) - Next JS, TailwindCSS , ChatGPT API
 3. [Mogul](https://github.com/paragonpictures/mogul) (Private Repo) - Full Stack Custom Drag and Drop functionality, React & Express
 
