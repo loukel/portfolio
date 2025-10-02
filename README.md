@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 1. [ShirtPrint](https://shirtprint.co.uk)
 2. [Clozio](https://clozio.store)
